@@ -1,7 +1,10 @@
 {
   "name": "ngx-stop-propagation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
+  "publishConfig": {
+    "registry": "http://npm.fourkites.com/"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
